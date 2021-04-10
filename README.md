@@ -1,5 +1,5 @@
 # Cyber-Jobs
-Chrome Extension that loads new jobs using the hacker news api
+Chrome Extension that loads new jobs 
 
 ### Steps to use this
 - Download this Application [folder]
