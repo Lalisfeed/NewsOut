@@ -1,4 +1,4 @@
-# Cyber-Jobs
+# Surf-Jobs
 Chrome Extension that loads new jobs 
 
 ### Steps to use this
