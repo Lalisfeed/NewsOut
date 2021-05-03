@@ -1,11 +1,11 @@
 {
 	"manifest_version": 2,
-	"name": "The Cyber Job",
-	"description": "Trending Cyber Jobs Today from Hacker News",
-	"version": "1.0.0",
-	"icons": { "128": "thecyberjob_128.png" },
+	"name": "The Surf Job",
+	"description": "Trending Jobs Today from Hacker News",
+	"version": "1.0.1",
+	"icons": { "128": "thesurfjob_128.png" },
 	"browser_action": {
-		"default_icon": "thecyberjob.png",
+		"default_icon": "thesurfjob.png",
 		"default_popup": "popup.html"
 	},
 	"permissions": ["activeTab"]
